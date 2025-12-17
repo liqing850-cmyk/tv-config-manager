@@ -1,6 +1,6 @@
-# deco-tv-config-manager
+# tv-config-manager
 
-轻量的 DecoTV 配置管理面板（React + Vite + Zustand）。
+轻量的 TV 配置管理面板（React + Vite + Zustand）。
 
 快速开始
 

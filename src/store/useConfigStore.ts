@@ -99,7 +99,7 @@ export const useConfigStore = create<Store>()(
         })),
     }),
     {
-      name: 'deco-tv-config',
+      name: 'tv-config',
     }
   )
 );
